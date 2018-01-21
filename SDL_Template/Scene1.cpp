@@ -65,7 +65,7 @@ void Scene1::Update(const float deltaTime) {
 				player->animationState = 2;
 				break;
 			case SDLK_UP:
-				player->force.y = -400;
+				player->initialVelocity.y = -400;
 				break;
 			default:
 				break;

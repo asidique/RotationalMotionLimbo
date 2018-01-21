@@ -30757,3 +30757,24 @@ INFO: Music Class :: Load :: Loading succeeded
 INFO: Music Class :: Load :: Loading succeeded 
 INFO: Music Class :: Load :: Loading succeeded 
 INFO: Music Class :: Load :: Loading succeeded 
+WARNING: GameSceneManager :: getInstance() :: instance is null, making new gamescenemanager 
+INFO: Entering Window constructor :: c:\users\sidique\desktop\rotationalmotionlimbo\sdl_template\window.cpp :: Contents 
+INFO: GameSceneManager :: Initialize() :: Initializing... 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+WARNING: GameSceneManager :: getInstance() :: instance is null, making new gamescenemanager 
+INFO: Entering Window constructor :: c:\users\sidique\desktop\rotationalmotionlimbo\sdl_template\window.cpp :: Contents 
+INFO: GameSceneManager :: Initialize() :: Initializing... 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+WARNING: GameSceneManager :: getInstance() :: instance is null, making new gamescenemanager 
+INFO: Entering Window constructor :: c:\users\sidique\desktop\rotationalmotionlimbo\sdl_template\window.cpp :: Contents 
+INFO: GameSceneManager :: Initialize() :: Initializing... 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
+INFO: Music Class :: Load :: Loading succeeded 
